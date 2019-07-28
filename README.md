@@ -1,5 +1,5 @@
 # Split PFD
-This file contains code that splits a PDF into smaller PDFs using it's bookmark names as the new file names while maintaining each page's original page label. Acrobat actually has a function that does this however when it splits the file it resets the page labels to start from 1. I wrote this because some people prefered to have their files retain their original page label and there was no option to do that. It's easy to run and you just have to follow the instructions to set it up.
+This repository contains code that splits a PDF into smaller PDFs using it's bookmark names as the new file names while maintaining each page's original page label. Acrobat actually has a function that does this however when it splits the file it resets the page labels to start from 1. I wrote this because some people prefered to have their files retain their original page label and there was no option to do that. It's easy to run and you just have to follow the instructions to set it up.
 
 ## What you need
 Adobe Acrobat
